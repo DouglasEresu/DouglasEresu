@@ -2,7 +2,7 @@
 
 
 ## 🚀 About Me
-I'm a MERN stack developer working with mainly Javascript.
+I'm a full stack developer working mainly with Javascript and specialty in MERN stack
 
 
 ## 🛠 Skills
